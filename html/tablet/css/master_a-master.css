@@ -1,0 +1,56 @@
+#u7532
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #4BAAD3;
+}
+
+#u7533
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #3083A7;
+}
+
+#u7534-8
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 20px;
+	font-size: 17px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u7534-4,#u7534-6
+{
+	font-weight: normal;
+}
+
+#u7536-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u7535-8
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: right;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u7534-2,#u7535,#u7535-4
+{
+	font-weight: bold;
+}
+

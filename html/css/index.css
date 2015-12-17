@@ -1,0 +1,108 @@
+.version.index /* version checker */
+{
+	color: #0000FB;
+	background-color: #7A0C9E;
+}
+
+.html
+{
+	background-color: #A39B94;
+}
+
+#page
+{
+	z-index: 1;
+	/*width: 990px;*/
+	min-height: 1894.999999999997px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body
+{
+	position: relative;
+	/*min-width: 990px;
+	padding-top: 60px;*/
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
+.homepage-content
+{
+	font-size: 19px;
+	line-height: 23px;
+	padding-bottom: 3em;
+
+}
+
+.homepage-description
+{
+
+	text-align: justify;
+
+
+}
+
+li
+{
+	list-style-type: none;
+	list-style-position: outside;
+	display: list-item;
+}
+
+@media (max-width: 500px) {
+    .homepage-description{padding-left: 10% !important;
+						padding-right: 10% !important;}
+	.homepage-content .link-box {padding-left: 3%;}
+	
+
+}
+
+@media (min-width: 501px) {
+    .homepage-description{padding-left: 5% !important;
+						padding-right: 5% !important;}
+	
+
+}
+
+@media (max-width: 765px) {
+	.homepage-description{padding-top: 1em;}
+}
+
+@media (min-width: 766px) {
+	.homepage-description{padding-top: 4em;}
+}
+
+.equipment-box {
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+.equipment-box a {
+	color: black;
+	text-decoration: none;
+}
+
+.equipment-box a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.equipment-box a.nontext:hover {
+	color: black;
+}
+
+.equipment-box img {
+	width: 113px !important;
+	/*height: 139px;*/
+}
